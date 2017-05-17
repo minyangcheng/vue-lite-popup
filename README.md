@@ -1,4 +1,4 @@
-## vue-popup
+## vue-lite-popup
 
 在移动端开发时，经常会用到popupwindow这样的弹窗控件，给用户进行选项操作，android和ios中原生提供了这类控件，而在移动端前端中这类控件需要自己定义。我这里采用webpack+vue自定一个popup控件，可以在其他vue项目中直接使用。
 

@@ -1,7 +1,7 @@
 {
   "name": "vue-lite-popup",
   "description": "A vue component",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "minych <332485508@qq.com>",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --inline --hot",
